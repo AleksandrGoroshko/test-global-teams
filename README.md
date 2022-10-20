@@ -4,7 +4,7 @@
 
 1. Встановити git та NodeJS на комп'ютер.
 2. В бажаній папці для збереження проєкту - відкрити термінал(cmd) - та виконати команду ```git clone https://github.com/AleksandrGoroshko/test-global-teams.git``` - після чого завантажиться папка проєкту з назвою test-global-teams.
-3. На цьому кроці потрібно відкрити консоль(або термінал редактора) в папці test-global-teams і виконати команду: 
+3. На цьому кроці потрібно відкрити термінал в папці test-global-teams і виконати команду: 
 ```npm install cypress --save-dev```
 4. Далі потрібно запустити програму Cypress командою: 
 ```./node_modules/.bin/cypress open```
